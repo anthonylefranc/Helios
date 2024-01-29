@@ -1,0 +1,38 @@
+"Prediction is very difficult, especially if it's about the future."
+
+--Nils Bohr, Nobel laureate in Physics 
+
+Since the Solar Cycle was discovered over 180 years ago, its progression has been monitored by counting the number of sunspots and sunspot groups visible (through a solar telescope) on the solar surface each day.  These daily measurements are compiled into a monthly average and graphed as a function of time, as indicated by the black line in the top 
+
+By virtue of their rarity, extreme space weather events - massive solar storms, such as the Carrington event of 1859, are difficult to study, their rates of occurrence are difficult to estimate, and prediction of a specific future event is virtually impossible. According to this study, the probability of another Carrington event (based on Dst < −850 nT) occurring within the next decade is ∼12%. It has been suggested that a geomagnetic storm on the scale of the solar storm of 1859 today would cause billions or even trillions of dollars of damage to satellites, power grids and radio communications, and could cause electrical blackouts on a massive scale that might not be repaired for weeks, months, or even years. Such sudden electrical blackouts may threaten food production.
+
+
+
+The modern classification system for solar flares uses the letters A, B, C, M, or X, according to the peak flux in watts per square metre (W/m2) of soft X-rays with wavelengths 0.1 to 0.8 nanometres (1 to 8 ångströms), as measured by GOES satellites in geosynchronous orbit. 
+
+
+Classification 	Peak flux range (W/m2)
+A 	< 10^(-7) W/m2
+B 	10^(-7) to 10^(-6) W/m2
+C 	10^(-6) to 10^(-5) W/m2
+M 	10^(-5) to 10^(-4) W/m2
+X 	> 10^(-4) W/m2
+
+What is the flux unit of F10 7?
+The 10.7 cm solar radio flux (F10.7) - Tapping - 2013 - Space ...
+2 What is F10.7? [9] A 10.7 cm solar flux measurement is a determination of the strength of solar radio emission in a 100 MHz-wide band centered on 2800 MHz (a wavelength of 10.7 cm), averaged over an hour. It is expressed in solar flux units (sfu), where 1 sfu = 10−22 W m−2 Hz−1.14 juin 2013
+
+
+Classification radio disturbances 
+
+Radio Blackout….. X-ray Flare….. Flux (W/m2)….. Severity Descriptor
+
+R1                            M1                   0.00001               Minor
+
+R2                            M5                   0.00005               Moderate
+
+R3                            X1                     0.0001                 Strong
+
+R4                            X10                   0.001                   Severe
+
+R5                            X20                   0.002                   Extreme

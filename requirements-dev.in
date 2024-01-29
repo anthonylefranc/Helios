@@ -1,0 +1,14 @@
+numpy
+pandas
+matplotlib
+seaborn
+scipy
+scikit-learn
+prophet
+fbprophet
+plotly
+nbformat
+cython
+statsmodel
+pmdarima
+pickle

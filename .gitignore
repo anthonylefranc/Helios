@@ -1,0 +1,5 @@
+# Ignore compressed SARIMA model file
+compressed_sarima_model_solar_cycles.pkl.gz
+
+# Ignore SARIMA model file
+sarima_model_solar_cycles.pkl
