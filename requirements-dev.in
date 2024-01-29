@@ -9,6 +9,4 @@ fbprophet
 plotly
 nbformat
 cython
-statsmodel
 pmdarima
-pickle
